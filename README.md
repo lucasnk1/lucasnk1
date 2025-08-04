@@ -1,7 +1,17 @@
-<h1 align="center">Hi there! 👋 I'm Lucas Leuck</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Baskerville&duration=2000&pause=7000&color=F7F7F7&width=435&center=true&lines=Hello+World+%F0%9F%91%8B+I'm+Lucas+Leuck" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   🚀 Data Science & AI Student • 🧠 Curious Mind • 🎯 Driven by Innovation
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-leuck-a58332353/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" /></a>
+  <a href="mailto:lucas.oliveira014@edu.pucrs.br"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" /></a>
+  <a href="https://www.instagram.com/lucas.leuck/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" /></a>
 </p>
 
 ---
@@ -19,7 +29,7 @@
 </p>
 
 ---
-### 🧰 Tech Stack
+### 🧰 My Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,powershell,vscode,linux" />
@@ -27,15 +37,6 @@
   <img src="https://skillicons.dev/icons?i=,github,html,css,react,js,java,c,h" />
 </div>
 
----
-
-### 📬 Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-leuck-a58332353/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lucas.oliveira014@edu.pucrs.br"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/lucas.leuck/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
 ---
 
