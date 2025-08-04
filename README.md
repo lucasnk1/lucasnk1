@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,powershell,vscode,linux" />
   <br>
-  <img src="https://skillicons.dev/icons?i=,github,html,css,react,js,java,c,h" />
+  <img src="https://skillicons.dev/icons?i=typescript,html,css,react,js,java,c,h" />
 </div>
 
 
