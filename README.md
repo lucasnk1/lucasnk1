@@ -22,6 +22,7 @@
 🔍 I'm passionate about transforming data into insights and building smart solutions.  
 🛠️ Tools I enjoy working with: `Python`, `Pandas`, `Power BI`, `Business Intelligence (BI) & Analytics (BA)`, and `SQL`.  
 🤖 Recently exploring: `AI-powered automation`, `n8n workflows`, and `data storytelling`.
+💻 Personal site: https://lucasleuck.vercel.app/
 
 <p align="center">
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=lucasnk1&theme=transparent&include_all_commits=true&show_icons=true"/>
