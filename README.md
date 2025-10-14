@@ -33,9 +33,9 @@
 ### 🧰 My Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,powershell,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pycharm,git,powershell,vscode,linux,bots,md,mysql,notion,r,regex" />
   <br>
-  <img src="https://skillicons.dev/icons?i=,typescript,html,css,react,js,java,c," />
+  <img src="https://skillicons.dev/icons?i=githubactions,typescript,html,css,react,js,java,c,latex,npm,ps,aiscript,anaconda" />
 </div>
 
 
