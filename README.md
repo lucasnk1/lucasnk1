@@ -41,10 +41,14 @@
 
 ---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasnk1/lucasnk1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasnk1/lucasnk1output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasnk1/lucasnk1/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://docs.google.com/document/d/1ZX7XrDxalbt19qlP34cvyzclXYiEiXaSa-QbcPVMP-o/edit?tab=t.0">
+  <img src="book/JCD-capa.png" alt="Joven e a Corrida Pelo Dinheiro" width="120" align="left">
+</a>
 
+### 📖 My Book
+
+An honest look at the generation that runs without knowing where it wants to go and the price it pays for it.
+
+Read it here:  
+https://docs.google.com/document/d/1ZX7XrDxalbt19qlP34cvyzclXYiEiXaSa-QbcPVMP-o 
 
