@@ -45,24 +45,6 @@ Power BI, Data Visualization, Business Intelligence
 **Tools:**  
 Git, GitHub, Linux, VS Code, Anaconda  
 
-
-## Featured Projects
-
-### Data Detective (SQL Learning Platform)
-A project designed to teach SQL through interactive problem-solving and investigative scenarios.
-
-- Focus: learning through practice  
-- Stack: SQL, Web Interface  
-- Goal: improve data reasoning and query skills  
-
----
-
-## Current Direction
-
-- Developing real-world data science projects  
-- Advancing in machine learning techniques  
-- Exploring the practical implications of ethical AI  
-
 ---
 
 ## Writing
