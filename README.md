@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Baskerville&duration=2000&pause=6000&color=00FF00&width=600&center=true&lines=Lucas+Leuck;Data+Science+%7C+AI+%7C+Ethical+Technology" />
-</p>
+# Lucas Leuck
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-leuck-a58332353/">LinkedIn</a> •
-  <a href="mailto:lucas.oliveira014@edu.pucrs.br">Email</a> •
-  <a href="https://lucasleuck.vercel.app/">Portfolio</a>
+<p align="center"> 🚀 Data Science & AI Student 
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/lucas-leuck-a58332353/">
+<img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" />
+  </a> <a href="mailto:lucas.oliveira014@edu.pucrs.br"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" />
+  </a> <a href="https://www.instagram.com/lucas.leuck/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" /></a> 
 </p>
 
 ---
@@ -47,19 +48,6 @@ A project designed to teach SQL through interactive problem-solving and investig
 - Focus: learning through practice  
 - Stack: SQL, Web Interface  
 - Goal: improve data reasoning and query skills  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasnk1&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnk1&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=true"/>
-</p>
 
 ---
 
