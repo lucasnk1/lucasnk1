@@ -53,8 +53,8 @@ A project designed to teach SQL through interactive problem-solving and investig
 ## GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasnk1&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnk1&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
