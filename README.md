@@ -21,7 +21,7 @@
 
 I am a Data Science and Artificial Intelligence student at PUCRS, focused on building data-driven solutions with real-world impact.
 
-My main interest lies in the intersection between **machine learning, decision-making, and ethical AI** — understanding not only how models perform, but how they affect people and systems.
+My main interest lies in the intersection between **machine learning, decision-making, and ethical AI**, understanding not only how models perform, but how they affect people and systems.
 
 ---
 
