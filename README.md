@@ -1,54 +1,80 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Baskerville&duration=2000&pause=7000&color=00FF00&width=435&center=true&lines=Hello+World+%F0%9F%91%8B+I'm+Lucas+Leuck" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Baskerville&duration=2000&pause=6000&color=00FF00&width=600&center=true&lines=Lucas+Leuck;Data+Science+%7C+AI+%7C+Ethical+Technology" />
 </p>
 
 <p align="center">
-  🚀 Data Science & AI Student • 🧠 Curious Mind • 🎯 Driven by Innovation
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-leuck-a58332353/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" /></a>
-  <a href="mailto:lucas.oliveira014@edu.pucrs.br"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" /></a>
-  <a href="https://www.instagram.com/lucas.leuck/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" /></a>
+  <a href="https://www.linkedin.com/in/lucas-leuck-a58332353/">LinkedIn</a> •
+  <a href="mailto:lucas.oliveira014@edu.pucrs.br">Email</a> •
+  <a href="https://lucasleuck.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-🎓 I'm currently studying **Data Science & Artificial Intelligence** at PUCRS.  
-🔍 I'm passionate about transforming data into insights and building smart solutions.  
-🛠️ Tools I enjoy working with: `Python`, `Pandas`, `Power BI`, `Business Intelligence (BI) & Analytics (BA)`, and `SQL`.  
-🤖 Recently exploring: `AI-powered automation`, `n8n workflows`, and `data storytelling`.                                                                                     
-💻 Personal site: https://lucasleuck.vercel.app/ 
+I am a Data Science and Artificial Intelligence student at PUCRS, focused on building data-driven solutions with real-world impact.
+
+My main interest lies in the intersection between **machine learning, decision-making, and ethical AI** — understanding not only how models perform, but how they affect people and systems.
+
+---
+
+## Focus Areas
+
+- Machine Learning and Predictive Modeling  
+- Data Analysis and Decision Support  
+- AI Ethics and Responsible AI  
+- Data Visualization and Communication  
+
+---
+
+## Tech Stack
+
+**Data Science:**  
+Python, Pandas, NumPy, SQL, R
+
+**Analytics & BI:**  
+Power BI, Data Visualization, Business Intelligence  
+
+**Tools:**  
+Git, GitHub, Linux, VS Code, Anaconda  
+
+
+## Featured Projects
+
+### Data Detective (SQL Learning Platform)
+A project designed to teach SQL through interactive problem-solving and investigative scenarios.
+
+- Focus: learning through practice  
+- Stack: SQL, Web Interface  
+- Goal: improve data reasoning and query skills  
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=lucasnk1&theme=transparent&include_all_commits=true&show_icons=true"/>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnk1&theme=transparent&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=true"/>
 </p>
 
 ---
-### 🧰 My Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pycharm,git,powershell,vscode,linux,bots,md,mysql,notion,r,regex" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=githubactions,typescript,html,css,react,js,java,c,latex,npm,ps,aiscript,anaconda" />
-</div>
+## Current Direction
 
+- Developing real-world data science projects  
+- Advancing in machine learning techniques  
+- Exploring the practical implications of ethical AI  
 
 ---
 
-<a href="https://docs.google.com/document/d/1ZX7XrDxalbt19qlP34cvyzclXYiEiXaSa-QbcPVMP-o/edit?tab=t.0">
-  <img src="book/JCD-capa.png" alt="Joven e a Corrida Pelo Dinheiro" width="120" align="left">
+## Writing
+
+<a href="https://docs.google.com/document/d/1ZX7XrDxalbt19qlP34cvyzclXYiEiXaSa-QbcPVMP-o/edit">
+  <img src="book/JCD-capa.png" width="120" align="left">
 </a>
 
-### 📖 My Book
-
 An honest look at the generation that runs without knowing where it wants to go and the price it pays for it.
-
-Read it here:  
-https://docs.google.com/document/d/1ZX7XrDxalbt19qlP34cvyzclXYiEiXaSa-QbcPVMP-o 
-
