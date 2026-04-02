@@ -28,8 +28,7 @@ My main interest lies in the intersection between **machine learning, decision-m
 ## Focus Areas
 
 - Machine Learning and Predictive Modeling  
-- Data Analysis and Decision Support  
-- AI Ethics and Responsible AI  
+- Data Analysis and Decision Support    
 - Data Visualization and Communication  
 
 ---
