@@ -1,7 +1,14 @@
 # Hello, world! I'm Lucas Leuck
 
 Data scientist and AI
-<img align="right" alt="Coding" width="180" src="book/f451e40d0c7762ef3b6c7bbe404cebda.jpg">
+<img align="right" alt="Coding" width="180" src="book/cat-work-in-progress.gif">
+
+
+
+
+
+
+
 
 ## Writing
 
