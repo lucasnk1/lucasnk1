@@ -4,13 +4,7 @@ Data scientist and AI
 <img align="right" alt="Coding" width="180" src="book/cat-work-in-progress.gif">
 
 
-
-
-
-
-
-
-Writing
+Writing:
 
 <a href="https://docs.google.com/document/d/1ZX7XrDxalbt19qlP34cvyzclXYiEiXaSa-QbcPVMP-o/edit">
   <img src="book/JCD-capa.png" width="120" align="left">
